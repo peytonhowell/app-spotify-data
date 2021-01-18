@@ -1,0 +1,13 @@
+.SpotifyInformation {}
+.flexRow {
+    display: flex;
+    flex-direction: row;
+}
+.flexColumn{
+    display: flex;
+    flex-direction:column;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align:center;
+    width: 300px;
+}
